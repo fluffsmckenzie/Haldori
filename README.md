@@ -4,28 +4,31 @@
 
 Use these to make your actions during the game
 
+Talk to a target with your message:
 ```
 !talk <target> | <message>
 ```
-Talk to a target with your message
+
+Attack a target:
 ```
 !attack <target>
 ```
-Attack a target
+
+Use a skill on the target:
 ```
 !skill <skill> | <target>
 ```
-Use a skill on the target
+
+Use a custom action (remember your action must have a message):
 ```
 !action <action> | <target> | <message>
 ```
-Use a custom action (remember your action must have a message)/
 
 ### Voting
+Vote on the actions that you see on screen:
 ```
 !vote <actiontype> <number>
 ```
-Vote on the actions that you see on screen
 
 ```markdown
 Syntax highlighted code block
