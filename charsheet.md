@@ -56,19 +56,19 @@
 | AC | 13 | 13 | 10 |
 
 
-Initiative:   +3
+**Initiative:**   +3
 
-BAB:          +0
+**BAB:**          +0
 
-Melee tohit:  +0
+**Melee to hit:**  +0
 
-Ranged tohit: +0
+**Ranged to hit:** +0
 
-Fortitude:    +0
+**Fortitude:**    +0
 
-Reflex:       +0
+**Reflex:**       +0
 
-Will:         +5
+**Will:**         +5
 
 ### Unarmed attack 
 
@@ -98,46 +98,45 @@ Will:         +5
 
 | Name  | Quantity | Weight |
 | ------------- | ------------- | ------------- |
-| Bone Dice | 1	| 0lbs |
-| Chain Mail | 1 | 55lbs |
-| Clothes, Common | 1 | 3lbs |
-| Coin (Gold) | 10 | 0lbs |
-| Enemy Trophy | 1 | 0lbs |
-| Insignia of Rank | 1 | 0lbs |
-| Rations (1 day) | 10 | 20lbs |
-| Rope, hempen (50 feet) | 1 | 10lbs |
+| Bone Dice | 1	| 0 lbs. |
+| Chain Mail | 1 | 55 lbs. |
+| Clothes, Common | 1 | 3 lbs. |
+| Coin (Gold) | 10 | 0 lbs. |
+| Enemy Trophy | 1 | 0 lbs. |
+| Insignia of Rank | 1 | 0 lbs. |
+| Rations (1 day) | 10 | 20 lbs. |
+| Rope, hempen (50 feet) | 1 | 10 lbs. |
 | Backpack | 1 | 5 lbs. |
 | Belt Pouch  | 1 | 1 lb. |
 
-Total weight carried: 136.7 lbs.
-Current load:         Medium
+**Total weight carried:** 136.7 lbs. **Current load:** Medium
 
 ### Encumbrance
 
-Light:  90   
+**Light:**  90   
 
-Medium: 180   
+**Medium:** 180   
 
-Heavy:  270
+**Heavy:**  270
 
 ## Description 
 
-Height: 6' 2" 
+**Height:** 6' 2" 
 
-Weight: 248 lbs. 
+**Weight:** 248 lbs. 
 
-Gender: Male	
+**Gender:** Male	
 
-Eyes:    
+**Eyes:**    
 
-Hair: 
+**Hair:** 
 
-Skin: 
+**Skin:** 
 
-Dominant Hand: Left 
+**Dominant Hand:** Left 
 
-Quirks: 
+**Quirks:** 
 
-Speech style:  
+**Speech style:**  
 
-Quotable: 
+**Quotable:** _"Haldori orri dooooo"_
