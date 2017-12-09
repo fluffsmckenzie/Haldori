@@ -34,5 +34,19 @@ To choose what action chat is going to take you need to vote on an action from t
 !vote <actiontype> <number>
 ```
 Vote on the actions that you see on screen
- 
+
+
+## Meta
+
+### Character Sheet
+```
+!charsheet
+```
+Give you a link to the [character sheet](https://fluffsmckenzie.github.io/Haldori/charsheet/).
+
+### Commands
+```
+!halcommands
+```
+Gives you a link to here!
 
