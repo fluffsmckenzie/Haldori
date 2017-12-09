@@ -20,7 +20,8 @@ Languages:  Common, Halfling
 
 
 ## Skills
-| Skill                  | Total |  Rnk  |   Stat  | Msc |
+
+| Skill | Total |  Rank  |   Stat  | Msc |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Acrobatics  |  3  |  0.0 |   3 |   0 | 
 | Animal Handling |   -1 |   0.0 |   -1 |   0 | 
@@ -70,7 +71,8 @@ damage:       1d6+4
 critical:     20/x0
 range:        20 ft.
 
-## Equipment 
+## Equipment
+
 | Name  | Quantity | Weight |
 | ------------- | ------------- | ------------- |
 | Bone Dice | 1	| 0lbs |
