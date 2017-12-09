@@ -1,12 +1,31 @@
 ## Welcome to Haldori
 
-You can use the [editor on GitHub](https://github.com/fluffsmckenzie/Haldori/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Actions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use these to make your actions during the game
 
-### Markdown
+```
+!talk <target> | <message>
+```
+Talk to a target with your message
+```
+!attack <target>
+```
+Attack a target
+```
+!skill <skill> | <target>
+```
+Use a skill on the target
+```
+!action <action> | <target> | <message>
+```
+Use a custom action (remember your action must have a message)/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Voting
+```
+!vote <actiontype> <number>
+```
+Vote on the actions that you see on screen
 
 ```markdown
 Syntax highlighted code block
