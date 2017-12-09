@@ -42,7 +42,7 @@ Vote on the actions that you see on screen
 ```
 !charsheet
 ```
-Give you a link to the [character sheet](https://fluffsmckenzie.github.io/Haldori/charsheet/).
+Give you a link to the [character sheet](https://fluffsmckenzie.github.io/Haldori/charsheet).
 
 ### Commands
 ```
