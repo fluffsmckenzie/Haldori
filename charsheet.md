@@ -18,6 +18,7 @@ Languages:  Common, Halfling
 | WIS  |  9 |  (-1) |
 | CHA  |  13 |  (+1) |
 
+
 ## Skills
 | Skill                  | Total |  Rnk  |   Stat  | Msc |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
