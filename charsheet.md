@@ -1,15 +1,22 @@
-Name:       Haldori
-Race:       Human
-Player:     Chat 
-Classes:    Fighter 1
-Hit Points: 13
-Experience: 0 / 300
-Alignment:  Chaotic Neutral
-Vision:     
-Speed:      Walk 20 ft.
-Languages:  Common, Halfling
+### Haldori
 
-| Stat  |  Score |  Mod |
+**Race:**       Human
+
+**Classes:**    Fighter 1
+
+**Hit Points:** 13
+
+**Experience:** 0 / 300
+
+**Alignment:**  Chaotic Neutral
+
+**Vision:** 40ft., 20ft. (Dark)     
+
+**Speed:**      Walk 20 ft.
+
+**Languages:**  Common, Halfling
+
+| Stat  |  Score |  Modifier |
 | ------------- | ------------- | ------------- |
 | STR  |  18 |  (+4) |
 | DEX  |  16 |  (+3) |
@@ -21,7 +28,7 @@ Languages:  Common, Halfling
 
 ## Skills
 
-| Skill | Total |  Rank  |   Stat  | Msc |
+| Skill | Total |  Rank  |   Stat  | Misc |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Acrobatics  |  3  |  0.0 |   3 |   0 | 
 | Animal Handling |   -1 |   0.0 |   -1 |   0 | 
@@ -43,33 +50,49 @@ Languages:  Common, Halfling
 | Survival |   -1 |   0.0 |   -1 |   0 | 
 
 ## Combat 
-Total / Touch / Flat Footed
-AC: 13 / 13 / 10
+
+| | Total | Touch | Flat Footed |
+| ---- | ---- | ---- | ---- |
+| AC | 13 | 13 | 10 |
+
 
 Initiative:   +3
+
 BAB:          +0
+
 Melee tohit:  +0
+
 Ranged tohit: +0
+
 Fortitude:    +0
+
 Reflex:       +0
+
 Will:         +5
-Unarmed attack:
-to hit:       +2
-damage:       1d3
-critical:     20/x2
-Greatsword:
-to hit:       +6
-damage:       2d6+4
-critical:     20/x0
-Handaxe:
-to hit:       +6
-damage:       1d6+4
-critical:     20/x0
-Handaxe (Thrown):
-to hit:       +6
-damage:       1d6+4
-critical:     20/x0
-range:        20 ft.
+
+### Unarmed attack 
+
+| to hit | damage | critical |
+| ---- | ---- | ---- |
+| +2 | 1d3 | 20/x2 |
+
+### Greatsword
+
+| to hit | damage | critical |
+| ---- | ---- | ---- |
+| +6 | 2d6+4 | 20/x0 |
+
+### Handaxe
+
+| to hit | damage | critical |
+| ---- | ---- | ---- |
+| +6 | 1d6+4 | 20/x0 |
+
+### Handaxe (Thrown)
+
+| to hit | damage | critical | range |
+| ---- | ---- | ---- | ---- |
+| +6 | 1d6+4 | 20/x0 | 20 ft. |
 
 ## Equipment
 
@@ -89,18 +112,32 @@ range:        20 ft.
 Total weight carried: 136.7 lbs.
 Current load:         Medium
 
-Encumbrance
+### Encumbrance
+
 Light:  90   
+
 Medium: 180   
+
 Heavy:  270
 
 ## Description 
-Height: 6' 2" Weight: 248 lbs. 
+
+Height: 6' 2" 
+
+Weight: 248 lbs. 
+
 Gender: Male	
+
 Eyes:    
+
 Hair: 
+
 Skin: 
+
 Dominant Hand: Left 
+
 Quirks: 
+
 Speech style:  
+
 Quotable: 
