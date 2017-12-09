@@ -34,5 +34,5 @@ To choose what action chat is going to take you need to vote on an action from t
 !vote <actiontype> <number>
 ```
 Vote on the actions that you see on screen
-
+ 
 
